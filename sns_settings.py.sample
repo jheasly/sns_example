@@ -1,3 +1,4 @@
 AWS_ACCESS_KEY_ID="[your AWS access key ID]"
 AWS_SECRET_ACCESS_KEY="[your AWS secret access key]"
 REGION_NAME="[the region of your keys, i.e. us-west-1]"
+PHONE_NUMBER="+1XXXXXXXXXX"
